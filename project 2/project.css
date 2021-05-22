@@ -1,0 +1,86 @@
+#div1 {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 10px;
+    background-image: url("https://th.bing.com/th/id/R8e4cb028c40b443618b8c9223892d21c?rik=I%2faxanMqiADymw&riu=http%3a%2f%2fwww.technocrazed.com%2fwp-content%2fuploads%2f2015%2f12%2fHD-purple-wallpaper-image-to-use-as-background-121.jpg&ehk=2xAl%2bjl9TnJNToGqBdGtZay0HwaOgI7iW4oR%2f893Nk8%3d&risl=&pid=ImgRaw");
+}
+
+#div3 {
+    width: 1300px;
+    height: 2000px;
+    padding-left: 100px;
+    padding-right: 100px;   
+    border-radius: 10px; 
+}
+#div4 {
+    background-image: url("https://th.bing.com/th/id/R8e4cb028c40b443618b8c9223892d21c?rik=I%2faxanMqiADymw&riu=http%3a%2f%2fwww.technocrazed.com%2fwp-content%2fuploads%2f2015%2f12%2fHD-purple-wallpaper-image-to-use-as-background-121.jpg&ehk=2xAl%2bjl9TnJNToGqBdGtZay0HwaOgI7iW4oR%2f893Nk8%3d&risl=&pid=ImgRaw");
+    margin: 0;
+    overflow: hidden;
+    border-radius: 10px; 
+}
+h1 {
+    color: yellow;
+    text-align: center ;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    font-size: 32px;
+    color: cornsilk;
+}
+#img1 {
+    padding-left: 360px;
+}
+#img4 {
+    padding-left: 280px;
+}
+p {
+    font-size: 23px;
+    color: cornsilk;
+}
+h3 {
+    font-size: 28px;
+    color:cornsilk;
+}
+#vid1 {
+    padding-left: 125px;
+}
+#contact {
+    padding-left: 70px;
+    padding-top: 25px;
+    color: rgb(255, 238, 0);
+}
+#link1 {
+    color: aqua;
+}
+body {
+    background-image: url("https://i.redd.it/gcepta4g99w01.jpg");
+
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding-left: 30px;
+    padding-right: 30px; 
+    border-radius: 10px; 
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }

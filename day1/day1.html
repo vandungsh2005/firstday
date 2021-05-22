@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Click me</title>
+        <link href="./day1.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+        <button id="hi">click me</button>
+        <h1 id="he"></h1>
+        <script>
+            document.getElementById("hi").addEventListener('click', function(){
+                document.getElementById("he").innerHTML = 'Hello World'
+            })
+        </script>
+    </body>
+</html>

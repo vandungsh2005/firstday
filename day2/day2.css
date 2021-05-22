@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: red;
+    
+}
+p {
+    text-align: center;
+    font-size: larger;
+}
+h2 {
+    text-align: center;
+    color: red;
+    
+}
+h3 {
+    text-align: center;
+    
+}
+div {
+    width: 500px;
+    height: 730px;
+    border: 10px solid rosybrown;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+h4 {
+    font-size: larger;
+    text-align: right;
+}
+h5 {
+    font-size: medium;
+}
